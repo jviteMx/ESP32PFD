@@ -4,7 +4,7 @@ An ESP32-based Primary Flight Display (PFD) demo that renders an attitude indica
 
 > **Safety / Disclaimer**
 >
-> This project is for educational and hobby use only. It is **not** certified avionics, and it is **not intended** for real-world flight navigation or safety-of-life use. Do not rely on it for any operational decisions.
+> This project is for educational and hobby use only. It is **not** certified avionics, and it is **not intended** for real-world comercial flight navigation. Do not rely on it for any operational decisions.
 
 ---
 
